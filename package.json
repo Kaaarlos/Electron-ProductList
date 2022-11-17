@@ -1,0 +1,17 @@
+{
+  "name": "electron-products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^21.2.3",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
